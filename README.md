@@ -1,7 +1,6 @@
 # Calculator
 
-![Calculator App](https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.media-amazon.com%2Fimages%2FI%2F81-d0FG6XXL._AC_UF1000%2C1000_QL80_.jpg&tbnid=sUWC3bIwx8JHaM&vet=12ahUKEwir1cK96-f_AhV2mWMGHT_xAB8QMygDegUIARDsAQ..i&imgrefurl=https%3A%2F%2Fwww.amazon.in%2FOrpat-OT-512GT-Calculator-Black%2Fdp%2FB01I1AZJ1K&docid=lB7rXeUAnHEHMM&w=998&h=1000&q=calculator&ved=2ahUKEwir1cK96-f_AhV2mWMGHT_xAB8QMygDegUIARDsAQ)
-
+![Calculator App]
 This is a simple calculator app created using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division.
 Live Demo:https://calcuator-app.netlify.app/
 
