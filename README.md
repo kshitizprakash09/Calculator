@@ -3,8 +3,8 @@
 ![Calculator App]
 This is a simple calculator app created using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division.
 
-Live Demo:[Demo Link](https://calcuator-app.netlify.app/)
-<a href="<a href="https://calcuator-app.netlify.app/" target="_blank">Demo Link</a>
+Live Demo:<a href="https://calcuator-app.netlify.app/" target="_blank">Demo Link</a>
+
 
 ## Features
 
